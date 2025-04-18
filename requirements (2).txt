@@ -1,3 +1,5 @@
 numpy
 matplotlib
 scikit-learn
+load_iris
+logisticRegression
